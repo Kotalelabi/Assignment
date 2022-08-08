@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+// Kota Lelabi-10985440
 int main()
 {
  int sumOFNumbers =0;
